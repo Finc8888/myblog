@@ -26,7 +26,7 @@ SECRET_KEY = 'dkjzhka(m32+t+j0a29_@xm45i*f__dx7d*gv^fiscwqs4^0tg'
 DEBUG = True
 
 ALLOWED_HOSTS = []
-
+ALLOWED_HOSTS = ['127.0.0.1', 'finc8888.pythonanywhere.com']
 
 # Application definition
 
